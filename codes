@@ -1,0 +1,21 @@
+digit-match-pro/
+├── src/
+│   ├── components/
+│   │   ├── Dashboard.jsx
+│   │   ├── BotControls.jsx
+│   │   ├── TradeHistory.jsx
+│   │   ├── LanguageToggle.jsx
+│   ├── bot/
+│   │   ├── derivSocket.js
+│   │   ├── digitMatchStrategy.js
+│   ├── auth/
+│   │   └── PrivateAccess.jsx
+│   ├── i18n/
+│   │   ├── en.js
+│   │   └── ur.js
+│   ├── App.jsx
+│   └── main.jsx
+├── public/
+│   ├── manifest.json   (PWA)
+│   └── icon.png
+└── README.md
